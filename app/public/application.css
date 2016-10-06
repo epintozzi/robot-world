@@ -1,1 +1,22 @@
+html {
+  background-image: url("http://wallpapercave.com/wp/tDo5tgp.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
 
+h1, h3, li {
+  font-family: 'Share Tech Mono', monospace;
+  list-style: none;
+}
+
+body {
+  background-color: transparent;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.robot-info {
+  /*border: 1px solid black;*/
+}
